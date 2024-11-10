@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Rescue the Villagers",
+    "description": "Save the villagers from bandits.",
+    "reward_cash": 500.0,
+    "reward_xp": 300,
+    "location_x": 5.5,
+    "location_y": 6.5,
+    "location_z": 0.0,
+    "is_completed": false
+  },
+  {
+    "id": 2,
+    "name": "Find the Lost Artifact",
+    "description": "Retrieve the ancient artifact from the ruins.",
+    "reward_cash": 1000.0,
+    "reward_xp": 500,
+    "location_x": 10.0,
+    "location_y": 15.0,
+    "location_z": 1.5,
+    "is_completed": true
+  }
+]

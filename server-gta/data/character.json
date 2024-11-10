@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "name": "Warrior",
+    "level": 5,
+    "xp": 1500,
+    "health": 85,
+    "location_x": 23.5,
+    "location_y": 42.1,
+    "location_z": 5.7,
+    "cash": 100.5
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "name": "Mage",
+    "level": 3,
+    "xp": 800,
+    "health": 92,
+    "location_x": 15.8,
+    "location_y": 30.4,
+    "location_z": 2.3,
+    "cash": 50.0
+  }
+]

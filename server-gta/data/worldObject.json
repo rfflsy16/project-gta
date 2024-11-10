@@ -1,0 +1,16 @@
+[
+  {
+    "object_type": "tree",
+    "location_x": 34.6,
+    "location_y": 22.1,
+    "location_z": 0.0,
+    "status": "healthy"
+  },
+  {
+    "object_type": "rock",
+    "location_x": 10.5,
+    "location_y": 15.3,
+    "location_z": 0.0,
+    "status": "intact"
+  }
+]

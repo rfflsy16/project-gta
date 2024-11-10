@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "character_id": 1,
+    "achievement_name": "First Blood",
+    "achievement_description": "Defeat the first enemy",
+    "reward_xp": 100
+  },
+  {
+    "id": 2,
+    "character_id": 2,
+    "achievement_name": "Treasure Hunter",
+    "achievement_description": "Find a hidden treasure",
+    "reward_xp": 200
+  }
+]

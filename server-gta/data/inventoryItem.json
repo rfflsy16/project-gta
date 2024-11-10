@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "character_id": 1,
+    "item_name": "Health Potion",
+    "quantity": 5,
+    "item_type": "Consumable"
+  },
+  {
+    "id": 2,
+    "character_id": 2,
+    "item_name": "Mana Potion",
+    "quantity": 3,
+    "item_type": "Consumable"
+  }
+]

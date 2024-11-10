@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "character_id": 1,
+    "mission_id": 1,
+    "status": "in-progress"
+  },
+  {
+    "id": 2,
+    "character_id": 2,
+    "mission_id": 2,
+    "status": "completed"
+  }
+]

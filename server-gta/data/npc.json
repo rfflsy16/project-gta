@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Merchant",
+    "role": "Trader",
+    "location_x": 12.3,
+    "location_y": 23.5,
+    "location_z": 1.0,
+    "dialogue": "Welcome! Take a look at my wares."
+  },
+  {
+    "id": 2,
+    "name": "Guard",
+    "role": "Protector",
+    "location_x": 5.5,
+    "location_y": 8.0,
+    "location_z": 0.0,
+    "dialogue": "Stay out of trouble."
+  }
+]

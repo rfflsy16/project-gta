@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "character_id": 1,
+    "make": "Honda",
+    "model": "Civic",
+    "color": "Red",
+    "location_x": 10.2,
+    "location_y": 20.3,
+    "location_z": 0.5,
+    "fuel": 80.0,
+    "health": 90.0
+  },
+  {
+    "id": 2,
+    "character_id": 2,
+    "make": "Toyota",
+    "model": "Camry",
+    "color": "Blue",
+    "location_x": 15.3,
+    "location_y": 25.1,
+    "location_z": 1.0,
+    "fuel": 60.0,
+    "health": 85.0
+  }
+]
